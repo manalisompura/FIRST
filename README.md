@@ -104,3 +104,13 @@ Successfully built an end-to-end Machine Learning project including:
 
 This project helped me understand the complete Machine Learning workflow from raw dataset to prediction and evaluation.
 
+## Dataset Source
+
+The Titanic dataset used in this project was obtained from the Kaggle Titanic Competition dataset:
+
+* Source: Kaggle Titanic Dataset
+* Dataset Link: https://www.kaggle.com/competitions/titanic/data
+
+The dataset contains passenger information such as age, gender, passenger class, fare, and survival status.
+
+
